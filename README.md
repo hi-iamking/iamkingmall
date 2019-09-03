@@ -3,13 +3,11 @@
 本项目为国王健身商城小程序,包含商品浏览商品查看。
 
 # 初始化项目
-npm install
+npm intall
+npm run dev
 
 # 安装依赖
-yarn
-
-# 开发时构建
-npm run dev
+npm
 
 # 打包构建
 npm run build
